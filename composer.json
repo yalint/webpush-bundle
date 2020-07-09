@@ -15,7 +15,7 @@
     "ext-json": "*",
     "ext-mbstring": "*",
     "ext-openssl": "*",
-    "minishlink/web-push": "~4.0|~5.0",
+    "minishlink/web-push": "master",
     "symfony/http-kernel": "~3.0|~4.0|~5.0"
   },
   "require-dev": {
